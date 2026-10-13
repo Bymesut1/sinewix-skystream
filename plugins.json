@@ -1,0 +1,9 @@
+[
+  {
+    "packageName": "dev.bymesut.sinewix",
+    "name": "Sinewix",
+    "version": 1,
+    "url": "sinewix/plugin.js",
+    "pluginJson": "sinewix/plugin.json"
+  }
+]
