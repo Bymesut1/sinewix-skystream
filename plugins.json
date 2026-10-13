@@ -3,7 +3,7 @@
     "packageName": "dev.bymesut.sinewix",
     "name": "Sinewix",
     "version": 1,
-    "url": "sinewix/plugin.js",
-    "pluginJson": "sinewix/plugin.json"
+    "url": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/sinewix/plugin.js",
+    "pluginJson": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/sinewix/plugin.json"
   }
 ]
