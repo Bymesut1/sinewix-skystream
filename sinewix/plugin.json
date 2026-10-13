@@ -1,0 +1,9 @@
+{
+  "packageName": "dev.bymesut.sinewix",
+  "name": "Sinewix",
+  "version": 1,
+  "baseUrl": "https://ydfvfdizipanel.ru",
+  "languages": ["tr"],
+  "categories": ["Movies", "Series"],
+  "description": "Sinewix akışları + TMDB katalog, arama ve detay"
+}
