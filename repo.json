@@ -1,0 +1,7 @@
+{
+  "name": "Sinewix Repo",
+  "packageName": "dev.bymesut.sinewix.repo",
+  "manifestVersion": 1,
+  "pluginLists": ["plugins.json"],
+  "description": "Sinewix için SkyStream eklentisi (katalog + arama + akış)"
+}
