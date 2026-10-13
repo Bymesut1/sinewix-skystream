@@ -2,10 +2,10 @@
   {
     "packageName": "dev.bymesut.sinewix",
     "name": "Sinewix",
-    "version": 2,
+    "version": 3,
     "languages": ["tr"],
     "categories": ["Movies", "Series"],
     "status": 1,
-    "url": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/dev.bymesut.sinewix-1.sky"
+    "url": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/sinewix-v3.sky"
   }
 ]
