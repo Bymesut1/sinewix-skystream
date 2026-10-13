@@ -3,7 +3,9 @@
     "packageName": "dev.bymesut.sinewix",
     "name": "Sinewix",
     "version": 1,
-    "url": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/sinewix/plugin.js",
-    "pluginJson": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/sinewix/plugin.json"
+    "languages": ["tr"],
+    "categories": ["Movies", "Series"],
+    "status": 1,
+    "url": "https://raw.githubusercontent.com/Bymesut1/sinewix-skystream/main/dev.bymesut.sinewix.sky"
   }
 ]
